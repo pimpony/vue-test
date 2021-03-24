@@ -1,6 +1,8 @@
 <template>
   <div class="hello">
+    <p class=" text-pink-300 text-3xl font-bold mb-24">PINJANG</p>
     <h1>{{ msg }}</h1>
+    
     <p>
       For a guide and recipes on how to configure / customize this project,<br>
       check out the
